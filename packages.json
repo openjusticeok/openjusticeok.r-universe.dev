@@ -2,5 +2,9 @@
   {
     "package": "ojodb",
     "url": "https://github.com/openjusticeok/ojodb"
+  },
+  {
+    "package": "ojoutils",
+    "url": "https://github.com/openjusticeok/ojoutils"
   }
 ]
