@@ -1,10 +1,18 @@
 [
   {
+    "package": "ojoverse",
+    "url": "https://github.com/openjusticeok/ojoverse"
+  },
+  {
     "package": "ojodb",
     "url": "https://github.com/openjusticeok/ojodb"
   },
   {
     "package": "ojoutils",
     "url": "https://github.com/openjusticeok/ojoutils"
+  },
+  {
+    "package": "ojoregex",
+    "url": "https://github.com/openjusticeok/ojoregex"
   }
 ]
