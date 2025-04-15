@@ -14,5 +14,9 @@
   {
     "package": "ojoregex",
     "url": "https://github.com/openjusticeok/ojoregex"
+  },
+  {
+    "package": "ojoslackr",
+    "url": "https://github.com/openjusticeok/ojoslackr"
   }
 ]
