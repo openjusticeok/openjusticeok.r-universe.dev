@@ -16,6 +16,10 @@
     "url": "https://github.com/openjusticeok/ojoregex"
   },
   {
+    "package": "ojothemes",
+    "url": "https://github.com/openjusticeok/ojothemes"
+  },
+  {
     "package": "ojoslackr",
     "url": "https://github.com/openjusticeok/ojoslackr"
   }
